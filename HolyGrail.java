@@ -6,6 +6,10 @@
 
 import java.util.Scanner;
 
+/**
+ * Main entry point
+ * Requires user input, returns answers
+ */
 public class HolyGrail {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
